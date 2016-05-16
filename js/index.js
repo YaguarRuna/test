@@ -49,12 +49,12 @@ var app = {
         var isAndroid = (/(android)/i.test(navigator.userAgent));
         var adPublisherIds = {
             ios: {
-                banner: 'ca-app-pub-9863325511078756/5232547029',
-                interstitial: 'ca-app-pub-9863325511078756/6709280228'
+                banner: 'ca-app-pub-1982713789251898/9669289987',
+                interstitial: 'ca-app-pub-1982713789251898/5239090385'
             },
             android: {
-                banner: 'ca-app-pub-9863325511078756/9802347428',
-                interstitial: 'ca-app-pub-9863325511078756/2279080628'
+                banner: 'ca-app-pub-1982713789251898/9669289987',
+                interstitial: 'ca-app-pub-1982713789251898/5239090385'
             }
         };
         var admobid;
